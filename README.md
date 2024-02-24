@@ -1,13 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead]("https://1.bp.blogspot.com/-7A4WynwLsM...")]
 <h1 align="center">Hi 👋, I'm Debargho Majumdar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="coding" width"400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBsdGp6b2RtMjh6MWZiNWpxcjdhbDJzZTY4M251eTZkYTQ2c2NxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<h3 align="center">A passionate Developer from India</h3>
+<img align="right" alt="coding" width"300" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBsdGp6b2RtMjh6MWZiNWpxcjdhbDJzZTY4M251eTZkYTQ2c2NxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb1011&label=Profile%20views&color=0e75b6&style=flat" alt="deb1011" /> </p>
 
-- 🔭 I’m currently working on **EmployeeManagement system implementing REST API**
-
-- 🌱 I’m currently learning **SpringBoot,hibernate,flask,Spring**
+- 🌱 I’m currently learning **Full Stack**
 
 - 📫 How to reach me **debargho1011@gmail.com**
 
