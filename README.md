@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Debargho Majumdar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="coding" width"400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif>
+<img align="right" alt="coding" width"400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBsdGp6b2RtMjh6MWZiNWpxcjdhbDJzZTY4M251eTZkYTQ2c2NxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb1011&label=Profile%20views&color=0e75b6&style=flat" alt="deb1011" /> </p>
 
