@@ -1,6 +1,7 @@
 [![MasterHead]("https://1.bp.blogspot.com/-7A4WynwLsM...")]
 <h1 align="center">Hi 👋, I'm Debargho Majumdar</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Developer from  <img width"30" height="30" src="https://github.com/deb1011/deb1011/assets/95293436/4ac7f1b4-6a6c-4d3a-bd38-430d6aa0a43e">
+</h3>
 <img align="right" alt="coding" width"300" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBsdGp6b2RtMjh6MWZiNWpxcjdhbDJzZTY4M251eTZkYTQ2c2NxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb1011&label=Profile%20views&color=0e75b6&style=flat" alt="deb1011" /> </p>
