@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Full Stack<br>💬 Ask me about Java<br>📫 How to reach me debargho1011@gmail.com
 
-<img align="right" alt="coding" width"300" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBsdGp6b2RtMjh6MWZiNWpxcjdhbDJzZTY4M251eTZkYTQ2c2NxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" width"300" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBsdGp6b2RtMjh6MWZiNWpxcjdhbDJzZTY4M251eTZkYTQ2c2NxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"></img>
 
 
 ## 🌐 Socials:
